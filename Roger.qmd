@@ -1,0 +1,17 @@
+---
+title: "Untitled"
+format: revealjs
+editor: visual
+---
+
+## Intro
+
+Name:陳彦祺(Roger)
+
+hobbies:playing guitar,playing badminton
+
+Department:Technology Management:
+
+## 
+
+![Profile photo](outputs/images/profie.png)
