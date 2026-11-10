@@ -2,8 +2,14 @@
 title: "About"
 ---
 
-About this site
+## Intro
 
-```{r}
-1 + 1
-```
+-Name:Eddy Huang
+
+-Department:Advertising
+
+-My Hobbies:Piano, workout, listen to city pop & indie bands
+
+\-[IG](https://www.instagram.com/eddyydde_/)
+
+\-![Photo](images/IMG_5646.jpg){width="511"}
