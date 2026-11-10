@@ -1,8 +1,18 @@
 ---
-title: "About"
+title: About Us 
 ---
 
-## Intro
+## About Us
+
+## "Leo" Chun Changsung
+
+My name is Chun Changsung, it sounds weird because that's my Korean name. I am a student at NCCU and am in my fourth year.
+
+Seoul has nearly 20 mountains surrounding the city, its no wonder I enjoy hiking so much when I have spare time. My hobbies also include watching movies and cooking food with friends.
+
+[leocsjeon](http://www.instagram.com/leocsjeon?stkn=MWg1eWK1d3J0a2Zqbw==)
+
+## Eddy Huang
 
 -Name:Eddy Huang
 
@@ -13,3 +23,11 @@ title: "About"
 \-[IG](https://www.instagram.com/eddyydde_/)
 
 \-![Photo](images/IMG_5646.jpg){width="511"}
+
+## 陳彦祺(Roger)
+
+hobbies:playing guitar,playing badminton
+
+Department:Technology Management:
+
+![Profile photo](outputs/images/profie.png)
